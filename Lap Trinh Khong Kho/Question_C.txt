@@ -1,0 +1,2 @@
+Question_Practices
+- Rever_Array_Advanced.c --> Cấp phát bộ nhớ động không thể khai báo vị trí cuối và đầu --> 

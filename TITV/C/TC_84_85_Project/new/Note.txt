@@ -1,0 +1,5 @@
+Attention:
+1. So sánh maLop (string)
+--> strcmp(s1, s2);
+2. So sánh xepLoai
+

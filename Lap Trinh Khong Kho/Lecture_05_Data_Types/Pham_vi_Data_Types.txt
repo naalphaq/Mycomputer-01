@@ -1,0 +1,2 @@
+Phạm vi giá trị các kiểu dữ liệu trong C/C++
+//Ép kiểu hay phạm vi dữ liệu bị tràn và nên xem xét điều đó.
