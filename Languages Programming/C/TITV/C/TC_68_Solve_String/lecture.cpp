@@ -2,7 +2,7 @@
 // Nhap chuoi va Xuat chuoi
 int main(){
 	int tuoi;
-	char ten[500];
+	char ten[500];//Lang phi tai nguyen
 	printf("Nhap tuoi cua ban: ");
 	scanf("%d", &tuoi);
 	getchar();
