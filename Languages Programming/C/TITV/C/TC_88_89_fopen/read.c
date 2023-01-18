@@ -10,11 +10,11 @@ int main(){
 	}
 	//3 Doc du li
 	int n;
-	//Doc du lieu tu file: Bai_001.txt
+	//Doc du lieu tu file: Bai_002.txt
 	fscanf(f, "%d", &n);
 	//Xuat ra man hinh cho ta xem
 	printf("\nGia tri cua n: %d", n);
 	
-	//4 Dong file
+	//5 Dong file
 	fclose(f);
 }
