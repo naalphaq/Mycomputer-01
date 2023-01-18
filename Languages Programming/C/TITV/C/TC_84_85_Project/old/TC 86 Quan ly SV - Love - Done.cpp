@@ -24,25 +24,6 @@ struct SinhVien{
 };
 typedef SinhVien SV;
 
-
-
-void nhapSinhVien(SV &sv);
-void inSinhVien(SV sv);
-void tinhTuoi(SV &sv);
-void tinhDiemTrungBinh(SV *sv);
-void xepLoai(SV &sv);
-void capNhatSinhVien(SV &sv);
-void nhapDanhSachSinhVien(SV ds[], int &n);
-void xuatDanhSachSinhVien(SV ds[], int n);
-float timMax_DiemTrungBinh(SV ds[], int n);
-int timMin_Tuoi(SV ds[], int n);
-void xuatDanhSachSinhVienXepLoai(SV ds[], int n);
-void xuatDanhSachSinhVienTheoLop(SV ds[], int n, char lop[]);
-int timSinhVienTheoTen(SV ds[], int n, char ten[]);
-void xoaSinhVienTheoId(SV ds[], int &n, int id);
-void sapXepDanhSachSinhVienTheoDTB(SV ds[], int n);
-void sapXepDanhSachSinhVienTheoTen(SV ds[], int n);
-
 void xoaXuongDong(char x[]){
 	size_t len = strlen(x);
 	if(x[len-1]=='\n'){
