@@ -46,9 +46,9 @@ int checkDate(struct Date d){
 int main(){
 	struct Date myDate; //int x = value;
 	inputDate(myDate);
-	printf("\n---\n");
+	printf("\n---\n");//
 	printDate(myDate);
-	printf("Kiem tra ngay hop le: %s", checkDate(myDate)==1?"HOP LE":"KHONG HOP LE");
+	printf("Kiem tra ngay hop le: %s", checkDate(myDate)==1?"HOP LE":"KHONG HOP LE");//
 	
 }
 
